@@ -21,3 +21,8 @@
 [Это сайт нашего университета](http://mguu.ru)
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Usdollar100front.jpg/1599px-Usdollar100front.jpg)
+
+|Заголовок 1|Заголовок 2|Заголовок 3|
+|-----------|-----------|-----------|
+|Ячейка 1|Ячейка 2|Ячейка 3|
+|Ячейка 4|Ячейка 5|Ячейка 6|
